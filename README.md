@@ -20,7 +20,7 @@ kch0723
         - 그외 쿨링펜, lcd, 또는 모니터. hdmi
 ```
 <b>
-
+jestson nano images
 ![jetson](https://github.com/user-attachments/assets/fadbd75e-5c73-4563-ac8d-f6779e17bcb3)
 ![jetson_exp](https://github.com/user-attachments/assets/c3ef7062-308c-4118-947c-35479fbd2581)
 
