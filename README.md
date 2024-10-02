@@ -38,8 +38,7 @@ kch0723
        4-1. sd card formatter ---> download
        4-2. balenaetcher download --->  이미지 굽기
        4-3. 제슨나노에 sd넣고 우분투 설치
-       
-       ````
+       ```
        
        ![스크린샷 2024-10-02 160638](https://github.com/user-attachments/assets/c58d1709-e74b-4477-afc1-ce9df97bb274)
        ![스크린샷 2024-10-02 160827](https://github.com/user-attachments/assets/e3bb4195-2f82-4048-873f-3d8e81273368)
