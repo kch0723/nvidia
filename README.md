@@ -46,7 +46,6 @@ kch0723
 ``` bash
 sudo sh -c 'echo 128 >  /sys/devices/pwm-fan/target_pwm'
 ```
-<b> jtop
 jtop : system monitoring tool
 terminal을 열어줍니다.
 
