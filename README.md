@@ -59,6 +59,7 @@ ls
 python3 usb-camera-gst.py 
 python3  face-detect-usb.py
 nvgstcapture-1.0 --mode=1 --camsrc=0 --cap-dev-node=0
+결과사진
 j
 ```
 ![kangchanha](https://github.com/user-attachments/assets/f5ae4422-61de-49d5-9377-d9aa14ee0345)
